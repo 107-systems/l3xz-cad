@@ -10,6 +10,7 @@ Rasperry Pi 4
 |-- USB
     |-- Colour Camera
     |-- Thermal Camera
+    |-- WiFi Dongle (Internal Wifi probably too small range)
     |-- USB-2-RS485 (U2D2)
         |-- 6 x Dynamixel MX-28
     |-- USB-2-RS232

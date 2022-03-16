@@ -15,12 +15,16 @@ Rasperry Pi 4
         |-- 6 x Dynamixel MX-28
     |-- USB-2-RS232
         |-- Scanse Sweep LIDAR
+        |-- KVH C-100 compass unit
+    |-- Lynxmotion SSC-32 Servo controller for valves
     |-- USB-2-CAN (Babel) for UAVCAN
+    |-- or SPI-2-CANFD for UAVCAN
         |-- 6 x Leg Controller Board (Arduino Nano 33 IoT)
            |-- 2 x AS5048A rotary angle sensor for femur/tibia rotation
            |-- 1 x Screw terminals for ground contact bumper switch
            |-- 1-2 LEDs
            |-- MCP2515 for connectivity via UAVCAN
+        |-- radiation sensor
 ```
 
 ## software
@@ -40,6 +44,8 @@ Rasperry Pi 4
   - radiation sensor
   - 6 x mechanical bumper switch at the foot endpoint to determine if the leg has ground contact
   - 1 x [Zubax Babel](https://zubax.com/products/babel): USB to CAN adapter, for UAVCAN communication
+  - 1 x KVH C-100 compass unit
+  - 1 x radiation sensor
 
 ## connectivity
 ### WiFi

@@ -10,6 +10,7 @@ Rasperry Pi 4
 |-- USB
     |-- Colour Camera
     |-- Thermal Camera
+    |-- Intel Realsense D435i
     |-- WiFi Dongle (Internal Wifi probably too small range)
     |-- USB-2-RS485 (U2D2)
         |-- 6 x Dynamixel MX-28
@@ -44,8 +45,9 @@ Rasperry Pi 4
   - radiation sensor
   - 6 x mechanical bumper switch at the foot endpoint to determine if the leg has ground contact
   - 1 x [Zubax Babel](https://zubax.com/products/babel): USB to CAN adapter, for UAVCAN communication
-  - 1 x KVH C-100 compass unit
+  - 1 x [KVH C-100](https://www.kvh.com/admin/products/compasses/compass-systems/c100-compass-engine) compass unit
   - 1 x radiation sensor
+  - 1 x [Intel Realsense](https://www.intelrealsense.com/depth-camera-d435i) D435i
 
 ## connectivity
 ### WiFi

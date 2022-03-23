@@ -3,7 +3,7 @@ Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 
 ## overview
 
-![leg rendering](docs/images/leg.png)
+![leg rendering](doc/images/leg.png)
 
 
 ## block diagram

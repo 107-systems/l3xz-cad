@@ -3,6 +3,7 @@ Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 
 ## overview
 
+![l3xz rendering](doc/images/l3xz.png)
 ![leg rendering](doc/images/leg.png)
 
 
@@ -46,7 +47,7 @@ Rasperry Pi 4
   - 1 x [Scanse Sweep](https://github.com/scanse/sweep-sdk): 360 ° LIDAR (SLAM/Mapping)
   - 12 x [AS5048A](https://ams.com/en/as5048a): 14-Bit rotary angle sensor for detecting position of femur/tibia
   - radiation sensor
-  - 6 x [LAS4GQH-11/S](https://www.conrad.de/de/p/tru-components-las4gqh-11-s-drucktaster-220-v-dc-0-50-a-1-x-aus-ein-tastend-1-st-1661900.html)mechanical bumper switch at the foot endpoint to determine if the leg has ground contact
+  - 6 x [LAS4GQH-11/S](https://www.conrad.de/de/p/tru-components-las4gqh-11-s-drucktaster-220-v-dc-0-50-a-1-x-aus-ein-tastend-1-st-1661900.html): mechanical bumper switch at the foot endpoint to determine if the leg has ground contact
   - 1 x [Zubax Babel](https://zubax.com/products/babel): USB to CAN adapter, for UAVCAN communication
   - 1 x [KVH C-100](https://www.kvh.com/admin/products/compasses/compass-systems/c100-compass-engine) compass unit
   - 1 x radiation sensor

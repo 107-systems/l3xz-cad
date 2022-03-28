@@ -1,4 +1,5 @@
 # L3X-Z Hexapod
+
 Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 
 ## overview
@@ -14,6 +15,7 @@ Rasperry Pi 4
 |-- USB
     |-- Colour Camera
     |-- Thermal Camera
+    |-- Scanse Sweep
     |-- Intel Realsense D435i
     |-- WiFi Dongle (Internal Wifi probably too small range)
     |-- USB-2-RS485 (U2D2)

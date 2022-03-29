@@ -5,7 +5,14 @@ Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 ## overview
 
 ![l3xz rendering](doc/images/l3xz.png)
+
+### leg
+
 ![leg rendering](doc/images/leg.png)
+
+### pan tilt head
+
+![pan tilt head rendering](doc/images/pan_tilt_head.png)
 
 
 ## block diagram
@@ -20,6 +27,7 @@ Rasperry Pi 4
     |-- WiFi Dongle (Internal Wifi probably too small range)
     |-- USB-2-RS485 (U2D2)
         |-- 6 x Dynamixel MX-28
+        |-- (additional) 2 x Dynamixel MX-28 for pan tilt head
     |-- USB-2-RS232
         |-- Scanse Sweep LIDAR
         |-- KVH C-100 compass unit

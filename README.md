@@ -6,6 +6,8 @@ Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 
 ![l3xz rendering](doc/images/l3xz.png)
 
+![l3xz rendering front](doc/images/l3xz_front.png)
+
 ### leg
 
 ![leg rendering](doc/images/leg.png)

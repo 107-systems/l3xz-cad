@@ -51,6 +51,21 @@ Rasperry Pi 4
 ## software
   - ROS 1 (ROS Noetic Nim)
 
+### uavcan
+
+#### Node-IDs
+
+| **Node-ID** | **device**                     |
+|:-----------:|:------------------------------:|
+| 1           | leg controller left front      |
+| 2           | leg controller left middle     |
+| 3           | leg controller left rear       |
+| 4           | leg controller right front     |
+| 5           | leg controller right middle    |
+| 6           | leg controller right rear      |
+| 50          | radiation detector             |
+| 101         | aux controller (default value) |
+
 ## actuators
   - 6 x [Dynamixel MX-28AR](https://emanual.robotis.com/docs/en/dxl/mx/mx-28-2/) servo (RS485, for hip (coxa) rotation)
   - 1 x [U2D2](https://emanual.robotis.com/docs/en/parts/interface/u2d2/): USB to RS485 converter + power supply for MX-28AR 

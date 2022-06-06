@@ -2,6 +2,20 @@
 
 Hexapod to participate at [ELROB 2022](https://www.elrob.org).
 
+#### MikroTik "Base Station"
+Bridge-IP: 192.168.88.2 (station bridge, nv2, pre-shared-key, l...).
+#### MikroTik "Robot"
+Bridge-IP: 192.168.88.1 (bridge, nv2, pre-shared-key, l...)
+#### Robot Rasperry Pi
+IP: 192.168.88.5
+#### Control PC
+IP: 192.168.88.3
+
+#### OpenCyphal Node-IDs
+* [Leg Controller](https://github.com/107-systems/l3xz-fw_leg-controller): 1-6
+* [Radiation Sensor](https://github.com/107-systems/l3xz-fw_radiation_sensor): 98
+* [AUX Controller](https://github.com/107-systems/l3xz-fw_aux-controller): 99
+
 ## overview
 
 ![l3xz rendering](doc/images/l3xz.png)

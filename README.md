@@ -47,9 +47,12 @@ Rasperry Pi 4
 | Control PC (Ethernet) | 192.168.88.3 | |
 
 #### OpenCyphal Node-IDs
-* [Leg Controller](https://github.com/107-systems/l3xz-fw_leg-controller): 1-6
-* [Radiation Sensor](https://github.com/107-systems/l3xz-fw_radiation_sensor): 98
-* [AUX Controller](https://github.com/107-systems/l3xz-fw_aux-controller): 99
+| OpenCyphal Node | ID |
+|-|:-:|
+| [Leg Controller](https://github.com/107-systems/l3xz-fw_leg-controller) | 1-6 |
+| Orel 20 ESC | 10 |
+| [Radiation Sensor](https://github.com/107-systems/l3xz-fw_radiation_sensor) | 98 |
+| [AUX Controller](https://github.com/107-systems/l3xz-fw_aux-controller) | 99 |
 
 ## Actuators
   - 6 x [Dynamixel MX-28AR](https://emanual.robotis.com/docs/en/dxl/mx/mx-28-2/) servo (RS485, for hip (coxa) rotation)

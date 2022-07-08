@@ -1,6 +1,8 @@
 <a href="https://107-systems.org/"><img align="right" src="https://raw.githubusercontent.com/107-systems/.github/main/logo/107-systems.png" width="15%"></a>
 `l3xz_hw`
 =========
+[![Spell Check status](https://github.com/107-systems/l3xz-hw/actions/workflows/spell-check.yml/badge.svg)](https://github.com/107-systems/l3xz-hw/actions/workflows/spell-check.yml)
+
 Hardware design files for the L3X-Z hexapod.
 
 ## Block Diagram

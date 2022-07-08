@@ -31,6 +31,7 @@ Rasperry Pi 4
   </tr>
   <tr>
     <td><img src="doc/images/leg.png" /></td>
+    <td><img src="doc/images/radiation_sensor.png" /></td>
   </tr>
   <tr>
     <td><img src="doc/images/pan_tilt_head.png" /></td>
